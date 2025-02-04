@@ -1,4 +1,4 @@
-import json
+DEBUG_GLR import json
 
 def test_balance(app, client):
     del app
